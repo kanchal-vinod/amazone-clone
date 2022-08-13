@@ -6,6 +6,7 @@ print("shit")
 # -------------
 #kosala - header
 variable_new = 1000
+print("man methana wada")
 
 
 
